@@ -1,0 +1,12 @@
+OwnInfo,Italy,136,100
+JoinWarNum,0
+War,250.126.100
+
+
+
+
+
+
+
+ControllStateNum,136
+Demands,250.126.100,15

@@ -1,0 +1,5 @@
+OwnInfo,Paraguay,5,300
+JoinWarNum,0
+War,76.145.63
+ControllStateNum,5
+Demands,76.145.63,18

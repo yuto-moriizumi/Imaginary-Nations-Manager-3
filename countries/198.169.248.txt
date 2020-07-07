@@ -1,0 +1,5 @@
+OwnInfo,Panama,3,100
+JoinWarNum,0
+War,76.145.63
+ControllStateNum,3
+Demands,76.145.63,30

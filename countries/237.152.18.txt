@@ -1,0 +1,9 @@
+OwnInfo,Qing,890,100
+JoinWarNum,0
+War,26.53.177
+
+
+
+
+ControllStateNum,890
+

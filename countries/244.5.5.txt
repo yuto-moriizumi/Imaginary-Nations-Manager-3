@@ -1,0 +1,1 @@
+OwnInfo,Switzerland,20,10000

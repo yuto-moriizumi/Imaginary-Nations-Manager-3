@@ -1,0 +1,1 @@
+OwnInfo,Cuba,15,100

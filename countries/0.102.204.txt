@@ -1,0 +1,1 @@
+OwnInfo,Atlowa,500,100

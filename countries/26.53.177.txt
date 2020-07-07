@@ -1,0 +1,5 @@
+OwnInfo,Korea,68,100
+JoinWarNum,0
+War,237.152.18
+ControllStateNum,68
+Demands,237.152.18,16

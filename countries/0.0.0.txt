@@ -1,0 +1,3 @@
+OwnInfo,NotCountry,1,0
+JoinWarNum,1
+War,76.145.63

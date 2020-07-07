@@ -1,0 +1,9 @@
+OwnInfo,Mexico,83,100
+JoinWarNum,0
+War,20.133.237
+
+
+
+
+ControllStateNum,83
+Demands,20.133.237,15

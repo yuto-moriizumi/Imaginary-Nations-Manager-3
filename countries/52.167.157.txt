@@ -1,0 +1,9 @@
+OwnInfo,Czech,41,150
+JoinWarNum,0
+War,250.126.100
+
+
+
+
+ControllStateNum,0
+Demands,250.126.100,17

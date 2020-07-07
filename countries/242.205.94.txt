@@ -1,0 +1,14 @@
+OwnInfo,Spain,143,100
+JoinWarNum,0
+War,127.0.255
+
+
+
+
+
+
+
+
+
+ControllStateNum,143
+Demands,127.0.255,15

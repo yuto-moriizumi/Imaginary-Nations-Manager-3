@@ -1,0 +1,16 @@
+OwnInfo,Greece,43,100
+War,230.230.70
+
+Demands,230.230.70,16
+JoinWarNum,0
+War,250.126.100
+
+
+
+
+
+
+
+
+ControllStateNum,43
+Demands,250.126.100,264

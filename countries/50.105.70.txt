@@ -1,0 +1,15 @@
+OwnInfo,Najd,54,100
+JoinWarNum,0
+War,230.230.70
+
+
+
+
+
+
+
+
+
+
+ControllStateNum,54
+Demands,230.230.70,16

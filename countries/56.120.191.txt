@@ -1,0 +1,15 @@
+OwnInfo,Ethiopia,85,100
+Demands,230.230.70,12
+War,230.230.70
+
+JoinWarNum,0
+War,230.230.70
+
+
+
+
+
+
+
+
+ControllStateNum,64
